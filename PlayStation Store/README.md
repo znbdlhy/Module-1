@@ -1,8 +1,8 @@
 # Overview
 
-This is a C++ programe shows user a PlayStation Store. It will allow users to create accounts, remove accounts, display account information, add fund to an account, add shipping address to an account, purchase a PlayStation 5 console and quit the programe
+This is a C++ programe shows user a PlayStation Store. It will allow users to create accounts, remove accounts, display account information, add fund to an account, add shipping address to an account, purchase a PlayStation 5 console and quit the programe.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/K1PPwEdpt6M)
 
 # Development Environment
 
